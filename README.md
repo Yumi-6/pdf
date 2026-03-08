@@ -1,4 +1,4 @@
-# Sistema de criação de fatura ou conprovante com o php
+# Sistema de criação de fatura ou comprovante com o php
 
 **Esse exemplo foi criado para um sitema escolar**
 

@@ -48,4 +48,4 @@ require_once 'dompdf/autoload.inc.php';
 Link : https://github.com/dompdf/dompdf.git
 
 
-**o o projeto em si não é uma biblioteca mas sim um exemplo prático de como podes implementar a biblioteca Dompdf em um projeto **
+**o o projeto em si não é uma biblioteca mas sim um exemplo prático de como podes implementar a biblioteca Dompdf em um projeto**

@@ -14,7 +14,7 @@ O exemplo é feito com PHP (lib DomPDF) , HTML e CSS o exemplo mostra um comprov
 
 ### Instalar com Composer
 
-Para instalar com o [Composer](https://getcomposer.org/), basta requerer a versão mais recente deste pacote:
+Para baixar com o [Composer](https://getcomposer.org/), basta requerer a versão mais recente deste pacote:
 
 ```bash
 composer require dompdf/dompdf
@@ -46,3 +46,6 @@ require_once 'dompdf/autoload.inc.php';
 
 **se não conseguir compreender o codigo visite o GITHUB oficial da biblioteca**,
 Link : https://github.com/dompdf/dompdf.git
+
+
+**o o projeto em si não é uma biblioteca mas sim um exemplo prático de como podes implementar a biblioteca Dompdf em um projeto **

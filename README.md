@@ -2,7 +2,7 @@
 
 **Esse exemplo foi criado para um sitema escolar**
 
-O exemplo é feito com PHP (lib DomPDF) , HTML e CSS :
+O exemplo é feito com PHP (lib DomPDF) , HTML e CSS o exemplo mostra um comprovantivo para ilustrar como projeto funciona :
 ![cmprovativo](Comprovativo.png)  
 
 ## Recomendações
@@ -10,7 +10,7 @@ O exemplo é feito com PHP (lib DomPDF) , HTML e CSS :
 - Modelo da fatura ou comprovativo feito com html e css
 - Baixar a biblioteca DomPDF
 
-## Instalação Fácil
+## para testar o código é necessário baixar a biblioteca DomPdf
 
 ### Instalar com Composer
 
